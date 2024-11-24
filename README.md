@@ -14,5 +14,5 @@ This resume creator eliminates the need for complex design software, offering a 
 <h4>
   The output show as follow:-
 </h4>
-<img src = "output1.png">
-<img src = "output2.png">
+<img src = "Output1.png">
+<img src = "Output2.png">
